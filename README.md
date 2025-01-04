@@ -1,4 +1,5 @@
 # Resumen Laboratorios - Paradigmas de la Programación
+Debido a que las consignas de los laboratorios son extensas, aquí solo dejare un resumen, cada laboratorio vendrá con su enunciado.
 
 ## Laboratorio 1: Un lenguaje que vale más que mil dibujos
 
@@ -34,4 +35,5 @@ Este laboratorio consiste en re-implementar el lector automático de feeds del L
   - Uso de inteligencia artificial.
   - Ejemplos de proyectos similares.
   - Consultas en sitios de referencia.
+
 
