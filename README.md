@@ -11,8 +11,6 @@ El objetivo de este laboratorio es diseñar e implementar un **lenguaje de domin
 
 La implementación consistirá en una función que transforme los programas escritos en el DSL en representaciones gráficas en pantalla. Este enfoque permite explorar cómo los DSLs proveen abstracciones adecuadas para resolver problemas en un ámbito específico.
 
-**Inspiración**: Este concepto está basado en la idea presentada en un artículo de Peter Henderson, cuya lectura es recomendada.
-
 ---
 
 ## Laboratorio 2: Un lector automático de feeds
